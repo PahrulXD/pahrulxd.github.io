@@ -17,5 +17,6 @@ contoh penggunaan :
 ```
 wget -S coc-status.ruangguru.com
 ```
-
 sumber :
+
+https://www.kumpulanremaja.com/2019/04/mencari-bug-host-internet-gratis-dengan-termux.html?m=1#google_vignette
