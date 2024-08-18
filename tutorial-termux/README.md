@@ -10,4 +10,6 @@ pip install bs4
 pip2 install bs4
 pip install --upgrade pip
 ```
-oke perintah sudah terinstall sekarang anda tinggal menginstall script termux nya klik di [sini](https://pahrulxd.github.io/) lalu pilih salah satu script yang akan anda gunakan lalu copy dan pastekan ke apk termux
+oke sekarang perintah sudah terinstall 
+
+selanjutnya anda tinggal menginstall script termux nya klik di [sini](https://pahrulxd.github.io/) lalu pilih salah satu script yang akan anda gunakan lalu copy dan pastekan ke apk termux
