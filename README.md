@@ -10,4 +10,4 @@
 2. pengertian tentang config http custom
 3. cara membuat config http custom
 4. cara membuat akun SSH di situs fastssh
-6. cara mencari bug host via termux
+6. [cara mencari bug host via termux](https://github.com/PahrulXD/pahrulxd.github.io/tree/main/bug-host)
