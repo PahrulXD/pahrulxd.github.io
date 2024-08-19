@@ -1,7 +1,7 @@
 
 ### APK TERMUX ###
 1. [pengertian & fungsi tentang termux](https://github.com/PahrulXD/pahrulxd.github.io/tree/main/termux)
-2. perintah dasar termux
+2. [perintah dasar termux](https://github.com/PahrulXD/pahrulxd.github.io/tree/main/perintah-dasar-termux)
 3. [cara menggunakan termux](https://github.com/PahrulXD/pahrulxd.github.io/blob/main/tutorial-termux/README.md)
 4. cara membuat script termux sendiri
 
