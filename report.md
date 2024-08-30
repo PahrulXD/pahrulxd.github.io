@@ -11,7 +11,7 @@ rendah/sedang/tinggi
 ```
 solusi : 
 ```
-tulis solusi yang harus dilakukan administrator
+tulis solusi yang harus dilakukan admin
 ```
 resiko : 
 ```
