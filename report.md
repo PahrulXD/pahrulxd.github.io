@@ -13,8 +13,15 @@ solusi :
 ```
 tulis solusi yang harus dilakukan admin
 ```
-resiko : 
+resiko :
 ```
-tulis resiko yang akan terjadi apabila peretas menemukan bug ini 
+- kebocoran data, seperti data pribadi atau data sensitif perusahaan 
+- penyerang dapat mengambil alih akun pengguna 
+- penyerang dapat mengubah atau menambahkan data baru ke basis data yang diakses 
+- penyerang dapat memperoleh hak administratif ke basis data 
+- tampilan daftar pengguna yang tidak sah 
+- penghapusan seluruh tabel
+- kerusakan server atau infrastruktur dasar situs web
 ```
+
 terima kasih
