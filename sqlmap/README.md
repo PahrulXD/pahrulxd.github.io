@@ -1,4 +1,4 @@
-***sqlmap adalah alat uji penetrasi sumber terbuka yang mengotomatiskan proses pendeteksian dan eksploitasi kelemahan injeksi SQL serta pengambilalihan server basis data.***
+sqlmap adalah alat uji penetrasi sumber terbuka yang mengotomatiskan proses pendeteksian dan eksploitasi kelemahan injeksi SQL serta pengambilalihan server basis data
 
 instalasi script :
 
